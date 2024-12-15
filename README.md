@@ -1,0 +1,4 @@
+加速度の値のいじりかた
+
+AccelerationNotification.kt内のfun showNotification関数内の0と3.6の値を変える
+（落下の速度が速くなるにつれ0に近づく）

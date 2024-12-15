@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 明るい印象のテーマ -->
+    <style name="Theme.Acceleration.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
